@@ -1,14 +1,15 @@
-"The 4th Wall"
+## **The 4th Wall**
+---
+###### git clone https://github.com/hewills/the4thwall.git
 
-git clone https://github.com/hewills/the4thwall.git
+Game made using Adventure Game Studios (AGS 3.3)  
+Game created in one month, for the MAGS competition.  
+Monthly contest theme was "Spirituality"
 
-Game made using Adventure Game Studios (AGS 3.3).
+---
 
-Game created in one month, for the MAGS competition.
-Game theme - "Spirituality"
+[Download AGS 3.3](https://www.adventuregamestudio.co.uk/forums/)
+and open game file (Game.agf)
 
-Download AGS 3.3 and open game file (Game.agf)
-https://www.adventuregamestudio.co.uk/forums/
-
-Executable saved here:
+Precompiled executable saved here:
 \the4thwall\Compiled\copy
